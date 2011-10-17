@@ -1,0 +1,11 @@
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\bin\Debug\FileShareServer.exe
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\bin\Debug\FileShareServer.pdb
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\obj\Debug\FileShareServer.Properties.Resources.resources
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\obj\Debug\FileShareServer.csproj.GenerateResource.Cache
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\obj\Debug\FileShareServer.exe
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\obj\Debug\FileShareServer.pdb
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\bin\Debug\FileShareServer.exe.config
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\bin\Debug\Interfaces.exe
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\bin\Debug\Interfaces.pdb
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareServer\obj\Debug\FileShareServer.Server.resources

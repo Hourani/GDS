@@ -1,0 +1,7 @@
+C:\Downloads\Projects\Work\GDS\FileShare\Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Projects\Work\GDS\FileShare\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Downloads\Projects\Work\GDS\FileShare\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.Cache
+C:\Downloads\Projects\Work\GDS\FileShare\Interfaces\bin\Debug\Interfaces.exe
+C:\Downloads\Projects\Work\GDS\FileShare\Interfaces\bin\Debug\Interfaces.pdb
+C:\Downloads\Projects\Work\GDS\FileShare\Interfaces\obj\Debug\Interfaces.exe
+C:\Downloads\Projects\Work\GDS\FileShare\Interfaces\obj\Debug\Interfaces.pdb

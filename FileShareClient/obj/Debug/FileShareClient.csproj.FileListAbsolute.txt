@@ -1,0 +1,14 @@
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\bin\Debug\FileShareClient.exe
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\bin\Debug\FileShareClient.pdb
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\obj\Debug\FileShareClient.Login.resources
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\obj\Debug\FileShareClient.Properties.Resources.resources
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\obj\Debug\FileShareClient.csproj.GenerateResource.Cache
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\obj\Debug\FileShareClient.exe
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\obj\Debug\FileShareClient.pdb
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\obj\Debug\FileShareClient.Register.resources
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\bin\Debug\Interfaces.exe
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\bin\Debug\Interfaces.pdb
+C:\Downloads\Projects\Work\GDS\FileShare\FileShareClient\obj\Debug\FileShareClient.PortalForm.resources
+C:\Users\Anton\Dropbox\GDS Group A\Code\FileShare\FileShareClient\obj\Debug\FileShareClient.exe
+C:\Users\Anton\Dropbox\GDS Group A\Code\FileShare\FileShareClient\obj\Debug\FileShareClient.pdb
